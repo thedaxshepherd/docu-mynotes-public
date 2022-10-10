@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu_notes=self.webpackChunkdocu_notes||[]).push([[417],{7479:e=>{e.exports=JSON.parse('{"title":"Power BI","slug":"/category/power-bi","permalink":"/docs/category/power-bi","navigation":{"previous":{"title":"Tutorial Intro","permalink":"/docs/intro"},"next":{"title":"Power BI Intro","permalink":"/docs/Power BI/Power-BI-Intro"}}}')}}]);
